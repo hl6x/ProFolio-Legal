@@ -9,13 +9,13 @@ ProFolio is designed as a standalone,offline estimating tool.
 * All estimates renain strictly on your device.
 
 ### 2. Permissions
-The app requires minimal permissions. Internetr access is only used if you chioose to view online documentation or contact support.
+The app requires minimal permissions. Internet access is only used if you choose to view online documentation or contact support.
 
 ### 3. Third-Party Services
 We do not use third-party analytics, tracking, or advertising SDKs.
 
 ### 4. Data Security
-Since your data is primarily stored on your own device, you are responsible for maintaing backups. 
+Since your data is primarily stored on your own device, you are responsible for maintainig backups. 
 
 ### CONTACT SUPPORT
 For privacy inquiries, contact: <hl6@outlook.com>
