@@ -6,7 +6,7 @@ ProFolio is committed to protecting your privacy. This policy explains how we ha
 ### 1. 100% Offline Operation
 ProFolio is designed as a standalone,offline estimating tool.
 * We do not collect, or transmit any project data.
-* All estimates renain strictly on your device unless Online sync is explicitly configured.
+* All estimates renain strictly on your device.
 
 ### 2. Permissions
 The app .....
